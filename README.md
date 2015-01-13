@@ -1,3 +1,6 @@
+# DEPRECATED USE `gulp-bower` INSTEAD
+Deprecating this module because the original author fixed the bug in the original repo
+
 # gulp-bower2
 > Install Bower packages.
 
